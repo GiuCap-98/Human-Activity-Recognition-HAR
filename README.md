@@ -6,7 +6,10 @@ Studi di Verona.
 E’ stato utilizzato il dataset “Human Activity Recognition with Smartphones”, il quale presenta il seguente 
 problema di classificazione: “Classificare uno o più record in una delle sei attività svolte”. Il dataset è 
 disponibile sulla piattaforma Kaggle al seguente link: 
-Human Activity Recognition with Smartphones | Kaggle
+
+[Human Activity Recognition with Smartphones | Kaggle
+](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)
+
 Diamo una panoramica delle parti che compongo lo sviluppo del progetto 
 - Risoluzione di un problema di classificazione, in quanto rappresenta il fulcro dell’elaborato.
 - Sezione aggiuntiva con la risoluzione di un problema di Clustering supponendo che il dataset sia non 
