@@ -8,13 +8,14 @@ problema di classificazione: “Classificare uno o più record in una delle sei 
 disponibile sulla piattaforma Kaggle al seguente link: 
 Human Activity Recognition with Smartphones | Kaggle
 Diamo una panoramica delle parti che compongo lo sviluppo del progetto 
-• Risoluzione di un problema di classificazione, in quanto rappresenta il fulcro dell’elaborato.
-• Sezione aggiuntiva con la risoluzione di un problema di Clustering supponendo che il dataset sia non 
+- Risoluzione di un problema di classificazione, in quanto rappresenta il fulcro dell’elaborato.
+- Sezione aggiuntiva con la risoluzione di un problema di Clustering supponendo che il dataset sia non 
 etichettato, l’obiettivo diventa quello di andare a raggruppare correttamente le attività.
-• Le principali tecniche utilizzate sono state implementate ‘from scratch’ in Python:
-o Principal Component Analysis
-o Fisher’s Linear Discriminant Analysis
-o K Neirest Neighbor
-o K Means
+
+Le principali tecniche utilizzate sono state implementate ‘from scratch’ in Python:
+- Principal Component Analysis
+- Fisher’s Linear Discriminant Analysis
+- K Neirest Neighbor
+- K Means
 
 Ulteriori approfondimenti sono disponibili nella relazione "ML_Project.pdf"
