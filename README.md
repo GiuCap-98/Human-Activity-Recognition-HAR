@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-HAR
+# Human Activity Recognition with Smartphones
 Creazione di pipeline di ML per riconoscere le attività in base ai dati degli smartphones
 
 Questo progetto è valido per il corso di Fondamenti di Machine Learning A.A. 2021/2022 tenutosi presso l’Università degli 
